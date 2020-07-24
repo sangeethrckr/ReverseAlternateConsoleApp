@@ -1,0 +1,13 @@
+C:\Users\GS_Kira\source\repos\ReverseAlternate\ReverseAlternate\bin\Debug\netcoreapp3.1\ReverseAlternate.exe
+C:\Users\GS_Kira\source\repos\ReverseAlternate\ReverseAlternate\bin\Debug\netcoreapp3.1\ReverseAlternate.deps.json
+C:\Users\GS_Kira\source\repos\ReverseAlternate\ReverseAlternate\bin\Debug\netcoreapp3.1\ReverseAlternate.runtimeconfig.json
+C:\Users\GS_Kira\source\repos\ReverseAlternate\ReverseAlternate\bin\Debug\netcoreapp3.1\ReverseAlternate.runtimeconfig.dev.json
+C:\Users\GS_Kira\source\repos\ReverseAlternate\ReverseAlternate\bin\Debug\netcoreapp3.1\ReverseAlternate.dll
+C:\Users\GS_Kira\source\repos\ReverseAlternate\ReverseAlternate\bin\Debug\netcoreapp3.1\ReverseAlternate.pdb
+C:\Users\GS_Kira\source\repos\ReverseAlternate\ReverseAlternate\obj\Debug\netcoreapp3.1\ReverseAlternate.csprojAssemblyReference.cache
+C:\Users\GS_Kira\source\repos\ReverseAlternate\ReverseAlternate\obj\Debug\netcoreapp3.1\ReverseAlternate.AssemblyInfoInputs.cache
+C:\Users\GS_Kira\source\repos\ReverseAlternate\ReverseAlternate\obj\Debug\netcoreapp3.1\ReverseAlternate.AssemblyInfo.cs
+C:\Users\GS_Kira\source\repos\ReverseAlternate\ReverseAlternate\obj\Debug\netcoreapp3.1\ReverseAlternate.csproj.CoreCompileInputs.cache
+C:\Users\GS_Kira\source\repos\ReverseAlternate\ReverseAlternate\obj\Debug\netcoreapp3.1\ReverseAlternate.dll
+C:\Users\GS_Kira\source\repos\ReverseAlternate\ReverseAlternate\obj\Debug\netcoreapp3.1\ReverseAlternate.pdb
+C:\Users\GS_Kira\source\repos\ReverseAlternate\ReverseAlternate\obj\Debug\netcoreapp3.1\ReverseAlternate.genruntimeconfig.cache
